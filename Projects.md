@@ -624,6 +624,7 @@ See also [[SQLDrivers page|SQLDrivers]].
    * [Martian](https://github.com/google/martian) - HTTP proxy designed for use in E2E testing.
   * [nvm-windows](https://github.com/coreybutler/nvm-windows) - Node.js version manager for Windows
   * [prettybenchcmp](https://github.com/im7mortal/prettybenchcmp) - Store and compare benchmarks history locally.
+  * [prudle](https://github.com/kiritym/prudle) - A simple application which allows to mock custom HTTP responses.
   * [rerun](https://github.com/skelterjohn/rerun) - Rerun watches your binary and all its dependencies so it can rebuild and relaunch when the source changes.
   * [syntaxhighlighter](https://github.com/sourcegraph/syntaxhighlight) - language-independent code syntax highlighting library
   * [toggle](https://github.com/xchapter7x/toggle) - A feature toggle library with built in support for environment variable backed toggling. pluggable backing engine support.
