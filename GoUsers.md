@@ -477,6 +477,7 @@
   * [Kelir.tv](http://kelir.tv)
   * [Korina](http://sewamobilsolo.net)
   * [Kudo](https://kudo.co.id)
+  * [L4L International](http://www.l4linternational.com)
   * [Lazada](http://www.lazada.co.id)
   * [LionJobs](http://lionjobs.com)
   * [Matahari Mall](http://mataharimall.com)
@@ -498,6 +499,7 @@
   * [SevenEleven](http://sevel.me)
   * [Surabaya CCTV](http://surabayacctv.co.id/jual-cctv-surabaya-paket-cctv-murah)
   * [Tokopedia](http://tokopedia.com)
+  * [Unleashed](http://u-unleashed.com)
   * [Zelos](http://zelos.id)
 
 ## Iran
